@@ -17,6 +17,8 @@ Each group must name their branch based on their project topic, e.g., `GRP-Proje
 ---
 
 ### **2. Folder Structure in Each Branch**  
+- Here is an example of your branch structure.
+Figure #Hierarch.png 
 
 #### **a. README.md**  
 - Include the project topic title and a brief description of the group’s focus.  
